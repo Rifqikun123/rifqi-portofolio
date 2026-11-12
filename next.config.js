@@ -32,8 +32,8 @@ module.exports = withBundleAnalyzer({
 						value: "nosniff",
 					},
 					{
-						key: "X-Frame-Options",
-						value: "DENY",
+						key: "Content-Security-Policy",
+  value: "frame-ancestors 'self' https://sites.google.com https://*.google.com;",
 					},
 					{
 						key: "X-XSS-Protection",
