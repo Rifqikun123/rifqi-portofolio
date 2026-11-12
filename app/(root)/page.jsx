@@ -13,7 +13,7 @@ import { FullPageWrapper, Section, useFullPage } from "@alvalens/react-fullpage-
 import Button from "@/components/Button";
 import Me from "@/public/image/Rifqi2-front.png";
 import MeAbout from "@/public/image/Rifqi3.png";
-import Setup from "@/public/image/setup.jpg";
+import Setup from "@/public/image/Rifqi11.png";
 import ProjectAll from "@/public/image/projects.png";
 import Hr from "@/components/Hr";
 // icons
