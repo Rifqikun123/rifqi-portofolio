@@ -6,9 +6,9 @@ import Button from "@/components/Button";
 import Image from "next/image";
 
 // images
-import CobitInterview1 from "@/public/image/projects/cobit-bai06/interview-1.png";
-import CobitDiscussion from "@/public/image/projects/cobit-bai06/discussion.png";
-import CobitChangePlan from "@/public/image/projects/cobit-bai06/change-plan-cover.png";
+import CobitInterview1 from "@/public/image/projects/Cobit-BAI06/interview-1.png";
+import CobitDiscussion from "@/public/image/projects/Cobit-BAI06/discussion.png";
+import CobitChangePlan from "@/public/image/projects/Cobit-BAI06/change-plan-cover.png";
 import ProjectAll from "@/public/image/projects.png";
 
 import Hr from "@/components/Hr";
