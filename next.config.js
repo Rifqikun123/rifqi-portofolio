@@ -35,8 +35,8 @@ module.exports = withBundleAnalyzer({
           },
           {
             key: "Content-Security-Policy",
-            value: 
-						"frame-ancestors 'self' https://sites.google.com https://*.google.com https://googleusercontent.com https://*.googleusercontent.com;",
+           value: 
+					 "frame-ancestors 'self' https://sites.google.com https://*.google.com https://www.gstatic.com https://googleusercontent.com https://*.googleusercontent.com;",
           },
           {
             key: "X-XSS-Protection",
